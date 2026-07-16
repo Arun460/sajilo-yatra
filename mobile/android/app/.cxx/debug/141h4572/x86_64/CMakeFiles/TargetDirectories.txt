@@ -1,0 +1,2 @@
+D:/Minor Project/Code/sajilo-yatra/mobile/android/app/.cxx/debug/141h4572/x86_64/CMakeFiles/edit_cache.dir
+D:/Minor Project/Code/sajilo-yatra/mobile/android/app/.cxx/debug/141h4572/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,102 @@
+# =============================================
+# ANDROID
+# =============================================
+*.apk
+*.aab
+*.dex
+*.jar
+*.class
+*.so
+*.lock
+*.pid
+*.tmp
+
+# Android build files
+android/app/build/
+android/app/src/main/res/drawable-v21/
+android/app/src/main/res/drawable/
+android/app/src/main/res/mipmap-hdpi/
+android/app/src/main/res/mipmap-mdpi/
+android/app/src/main/res/mipmap-xhdpi/
+android/app/src/main/res/mipmap-xxhdpi/
+android/app/src/main/res/mipmap-xxxhdpi/
+android/local.properties
+android/.gradle/
+android/gradle/wrapper/gradle-wrapper.jar
+android/gradlew
+android/gradlew.bat
+android/.idea/
+android/captures/
+android/.cxx/
+
+# Keystore files (NEVER SHARE)
+key.properties
+**/*.keystore
+**/*.jks
+
+# =============================================
+# FLUTTER
+# =============================================
+mobile/build/
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/pubspec.lock
+mobile/GeneratedPluginRegistrant.java
+mobile/.metadata
+
+# =============================================
+# WEB
+# =============================================
+mobile/web/
+
+# =============================================
+# IOS
+# =============================================
+mobile/ios/Pods/
+mobile/ios/Podfile.lock
+mobile/ios/.symlinks/
+mobile/ios/Flutter/App.framework/
+mobile/ios/Flutter/Flutter.framework/
+mobile/ios/Flutter/Generated.xcconfig
+
+# =============================================
+# ENVIRONMENT
+# =============================================
+.env
+*.env
+.env.*
+!.env.example
+
+# =============================================
+# IDE
+# =============================================
+.idea/
+.vscode/
+*.iml
+*.iws
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.log
+
+# =============================================
+# PROJECT SPECIFIC
+# =============================================
+firebase_options.dart
+google-services.json
+GoogleService-Info.plist
+
+# =============================================
+# LARGE FILES
+# =============================================
+*.zip
+*.tar.gz
+*.7z
+*.rar
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.iso

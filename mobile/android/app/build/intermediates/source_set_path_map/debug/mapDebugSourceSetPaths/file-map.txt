@@ -1,0 +1,55 @@
+com.example.sajiloyatra.app-savedstate-1.2.1-0 C:\Users\legion\.gradle\caches\8.14\transforms\0214bdf1acea6be2178e137a5ddbe1e6\transformed\savedstate-1.2.1\res
+com.example.sajiloyatra.app-savedstate-ktx-1.2.1-1 C:\Users\legion\.gradle\caches\8.14\transforms\0d1a4e943e1f2388bec76a4b91076096\transformed\savedstate-ktx-1.2.1\res
+com.example.sajiloyatra.app-datastore-core-release-2 C:\Users\legion\.gradle\caches\8.14\transforms\112e9d9aa5f042241d044f586f9c061f\transformed\datastore-core-release\res
+com.example.sajiloyatra.app-lifecycle-runtime-2.7.0-3 C:\Users\legion\.gradle\caches\8.14\transforms\1df6938e5cd8a4cc875a2061e7b55f6d\transformed\lifecycle-runtime-2.7.0\res
+com.example.sajiloyatra.app-coordinatorlayout-1.0.0-4 C:\Users\legion\.gradle\caches\8.14\transforms\243e67dbdb61e5fad20f6042c5827f3b\transformed\coordinatorlayout-1.0.0\res
+com.example.sajiloyatra.app-preference-1.2.1-5 C:\Users\legion\.gradle\caches\8.14\transforms\28f54c546fc78ebb37db66a456d6a5b7\transformed\preference-1.2.1\res
+com.example.sajiloyatra.app-lifecycle-viewmodel-savedstate-2.7.0-6 C:\Users\legion\.gradle\caches\8.14\transforms\2b6a6fd2e9f2f54bc3654b22e5ece027\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.sajiloyatra.app-activity-ktx-1.9.0-7 C:\Users\legion\.gradle\caches\8.14\transforms\35d7d1d018c5f6041bf17b4aeef961e3\transformed\activity-ktx-1.9.0\res
+com.example.sajiloyatra.app-profileinstaller-1.3.1-8 C:\Users\legion\.gradle\caches\8.14\transforms\36c04e020ff4f2eb9dba947d178c228c\transformed\profileinstaller-1.3.1\res
+com.example.sajiloyatra.app-transition-1.4.1-9 C:\Users\legion\.gradle\caches\8.14\transforms\3d15e39a4500391bafe70c0facca9a0c\transformed\transition-1.4.1\res
+com.example.sajiloyatra.app-lifecycle-viewmodel-2.7.0-10 C:\Users\legion\.gradle\caches\8.14\transforms\3e5615732ace3c59dabeae5b9cdc6d87\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.sajiloyatra.app-exifinterface-1.4.1-11 C:\Users\legion\.gradle\caches\8.14\transforms\473d7afeb433a1fb0a226967bd35982a\transformed\exifinterface-1.4.1\res
+com.example.sajiloyatra.app-play-services-base-18.3.0-12 C:\Users\legion\.gradle\caches\8.14\transforms\4e4b7154eabe10d60908d2c2e6a56fab\transformed\play-services-base-18.3.0\res
+com.example.sajiloyatra.app-window-java-1.2.0-13 C:\Users\legion\.gradle\caches\8.14\transforms\58f5f2631b403ee459540ed075ca94de\transformed\window-java-1.2.0\res
+com.example.sajiloyatra.app-startup-runtime-1.1.1-14 C:\Users\legion\.gradle\caches\8.14\transforms\5cd90858158b615f75713f713fbd10ac\transformed\startup-runtime-1.1.1\res
+com.example.sajiloyatra.app-browser-1.9.0-15 C:\Users\legion\.gradle\caches\8.14\transforms\5d70daafe88675a0077c3fb389ed24bf\transformed\browser-1.9.0\res
+com.example.sajiloyatra.app-appcompat-resources-1.1.0-16 C:\Users\legion\.gradle\caches\8.14\transforms\6fc7a072505296a9b361aba6f9f54f8f\transformed\appcompat-resources-1.1.0\res
+com.example.sajiloyatra.app-core-1.0.0-17 C:\Users\legion\.gradle\caches\8.14\transforms\722761b5b2ffff8889e45bdefda5f133\transformed\core-1.0.0\res
+com.example.sajiloyatra.app-annotation-experimental-1.4.1-18 C:\Users\legion\.gradle\caches\8.14\transforms\7b33881451a61108b3d270c2908203e9\transformed\annotation-experimental-1.4.1\res
+com.example.sajiloyatra.app-datastore-preferences-core-release-19 C:\Users\legion\.gradle\caches\8.14\transforms\7bdaa0dc9680936d1cb5e786858ee6a5\transformed\datastore-preferences-core-release\res
+com.example.sajiloyatra.app-lifecycle-process-2.7.0-20 C:\Users\legion\.gradle\caches\8.14\transforms\7eef7391c05db3d5b811b9f2991458eb\transformed\lifecycle-process-2.7.0\res
+com.example.sajiloyatra.app-core-viewtree-1.0.0-21 C:\Users\legion\.gradle\caches\8.14\transforms\84723c4914b1a1cee7fb1cb5a97be650\transformed\core-viewtree-1.0.0\res
+com.example.sajiloyatra.app-tracing-1.2.0-22 C:\Users\legion\.gradle\caches\8.14\transforms\8ab60bc1f9d82dda68a0e3c973b6cd9f\transformed\tracing-1.2.0\res
+com.example.sajiloyatra.app-core-runtime-2.2.0-23 C:\Users\legion\.gradle\caches\8.14\transforms\8b7a8b3b74635bcaec399d810db5f329\transformed\core-runtime-2.2.0\res
+com.example.sajiloyatra.app-datastore-release-24 C:\Users\legion\.gradle\caches\8.14\transforms\90fe3c5dae2961f9327590585ca040d6\transformed\datastore-release\res
+com.example.sajiloyatra.app-lifecycle-livedata-2.7.0-25 C:\Users\legion\.gradle\caches\8.14\transforms\944741676fef247baedff9dadd2d2c1c\transformed\lifecycle-livedata-2.7.0\res
+com.example.sajiloyatra.app-lifecycle-livedata-core-2.7.0-26 C:\Users\legion\.gradle\caches\8.14\transforms\9581cf3051cf11d63f8eec2958b195b6\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.sajiloyatra.app-play-services-basement-18.3.0-27 C:\Users\legion\.gradle\caches\8.14\transforms\99b63dd2a2fb7b0963bd26c01829c006\transformed\play-services-basement-18.3.0\res
+com.example.sajiloyatra.app-lifecycle-livedata-core-ktx-2.7.0-28 C:\Users\legion\.gradle\caches\8.14\transforms\9fca525d3bf220305fa487de5d9f0f26\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.example.sajiloyatra.app-lifecycle-runtime-ktx-2.7.0-29 C:\Users\legion\.gradle\caches\8.14\transforms\a0b336dbdc4fd3b95a6404b212d3dc16\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.example.sajiloyatra.app-fragment-ktx-1.7.1-30 C:\Users\legion\.gradle\caches\8.14\transforms\bcb06324b285c4d4dc646a19d5ff5643\transformed\fragment-ktx-1.7.1\res
+com.example.sajiloyatra.app-core-1.17.0-31 C:\Users\legion\.gradle\caches\8.14\transforms\be19a58b324be1f4f0b5cc9e1fe9452c\transformed\core-1.17.0\res
+com.example.sajiloyatra.app-lifecycle-viewmodel-ktx-2.7.0-32 C:\Users\legion\.gradle\caches\8.14\transforms\bff4ebab4988622a176db7680ce64bfc\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.example.sajiloyatra.app-recyclerview-1.0.0-33 C:\Users\legion\.gradle\caches\8.14\transforms\c1fa653c7756d56d704f85dc6997818a\transformed\recyclerview-1.0.0\res
+com.example.sajiloyatra.app-activity-1.9.0-34 C:\Users\legion\.gradle\caches\8.14\transforms\cd4743e4565ee0494a6f6b9c1c0c2168\transformed\activity-1.9.0\res
+com.example.sajiloyatra.app-fragment-1.7.1-35 C:\Users\legion\.gradle\caches\8.14\transforms\cdd2c2bbc5eadd17f09e1e95ed5ee203\transformed\fragment-1.7.1\res
+com.example.sajiloyatra.app-appcompat-1.1.0-36 C:\Users\legion\.gradle\caches\8.14\transforms\dada052338995c83147ddb9f506a2294\transformed\appcompat-1.1.0\res
+com.example.sajiloyatra.app-slidingpanelayout-1.2.0-37 C:\Users\legion\.gradle\caches\8.14\transforms\db8462b1edec8cbf0cd0f627e82b9b2b\transformed\slidingpanelayout-1.2.0\res
+com.example.sajiloyatra.app-window-1.2.0-38 C:\Users\legion\.gradle\caches\8.14\transforms\de9d43518d385bf6ee600243629f4bd2\transformed\window-1.2.0\res
+com.example.sajiloyatra.app-datastore-preferences-release-39 C:\Users\legion\.gradle\caches\8.14\transforms\eb02108717d20c79c952c6e0724e59da\transformed\datastore-preferences-release\res
+com.example.sajiloyatra.app-core-ktx-1.17.0-40 C:\Users\legion\.gradle\caches\8.14\transforms\ee677081e3bf8487642bd4e729bea7cd\transformed\core-ktx-1.17.0\res
+com.example.sajiloyatra.app-debug-41 C:\Users\legion\AppData\Local\Pub\Cache\hosted\pub.dev\geolocator_android-5.0.3\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.example.sajiloyatra.app-debug-42 C:\Users\legion\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.example.sajiloyatra.app-debug-43 C:\Users\legion\AppData\Local\Pub\Cache\hosted\pub.dev\jni_flutter-1.0.1\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.example.sajiloyatra.app-debug-44 C:\Users\legion\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-10.2.0\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.example.sajiloyatra.app-debug-45 C:\Users\legion\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.example.sajiloyatra.app-debug-46 C:\Users\legion\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.27\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.example.sajiloyatra.app-debug-47 C:\Users\legion\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.3.32\android\build\intermediates\packaged_res\debug\packageDebugResources
+com.example.sajiloyatra.app-pngs-48 D:\Minor Project\Code\sajilo-yatra\mobile\android\app\build\generated\res\pngs\debug
+com.example.sajiloyatra.app-resValues-49 D:\Minor Project\Code\sajilo-yatra\mobile\android\app\build\generated\res\resValues\debug
+com.example.sajiloyatra.app-packageDebugResources-50 D:\Minor Project\Code\sajilo-yatra\mobile\android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.sajiloyatra.app-packageDebugResources-51 D:\Minor Project\Code\sajilo-yatra\mobile\android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.sajiloyatra.app-debug-52 D:\Minor Project\Code\sajilo-yatra\mobile\android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.sajiloyatra.app-debug-53 D:\Minor Project\Code\sajilo-yatra\mobile\android\app\src\debug\res
+com.example.sajiloyatra.app-main-54 D:\Minor Project\Code\sajilo-yatra\mobile\android\app\src\main\res

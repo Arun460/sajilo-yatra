@@ -1,0 +1,56 @@
+﻿# Android build files
+*.apk
+*.aab
+*.jar
+*.class
+*.so
+android/app/build/
+android/.gradle/
+android/local.properties
+android/gradle/wrapper/gradle-wrapper.jar
+android/gradlew
+android/gradlew.bat
+android/.idea/
+android/captures/
+android/.cxx/
+
+# Keystore files
+key.properties
+**/*.keystore
+**/*.jks
+
+# Flutter build files
+mobile/build/
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/pubspec.lock
+mobile/GeneratedPluginRegistrant.java
+
+# iOS build files
+mobile/ios/Pods/
+mobile/ios/Podfile.lock
+mobile/ios/.symlinks/
+
+# Environment files
+.env
+*.env
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Large files
+*.zip
+*.tar.gz
+*.7z
+*.mp4
+*.mov
+*.iso
+
+# Firebase files
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
